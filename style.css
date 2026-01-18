@@ -1,0 +1,41 @@
+body{
+    color: black;
+    background-image: url(pexels-pixabay-33545.jpg);
+    background-size: cover;
+}
+header{
+    text-align: center;
+    border: 2px;
+    border-color: aliceblue;
+    border-radius: 5px;
+    background-color: rgba(160, 160, 160,0.3);
+    display: inline;
+    font-size: 38px;
+}
+form{
+    text-align: center;
+
+}
+input{
+    background-color: firebrick;
+    border: 4px;
+    border-color: aliceblue;
+    background-color: rgba(160, 160, 160,0.3);
+    width: 360px;
+    color: black;
+}
+.b{
+    width: 20px;
+
+
+}
+button{
+    background-color: rgba(160, 160, 160,0.3);
+    color: black;
+}
+input::placeholder{
+    color: black;
+    border: 3px;
+    border-color: aliceblue;
+    border-radius: 5px;
+}
